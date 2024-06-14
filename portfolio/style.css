@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Artifika';
+    src: url('../fonts/Artifika-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KaiseiDecol';
+    src: url('../fonts/KaiseiDecol-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 28px 10%;
+}
+
+.logo {
+    font-family: 'Artifika';
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.navbar a {
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 35px;
+    transition: 0.2s;
+}
+
+.home-container h1 {
+    font-size: 56px;
+    font-weight: 700;
+    margin: -3px 0;
+}
+
+.home-container h3 {
+    font-size: 32px;
+    font-weight: 700;
+}
