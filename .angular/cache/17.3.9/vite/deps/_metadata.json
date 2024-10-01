@@ -1,0 +1,64 @@
+{
+  "hash": "6f76cd28",
+  "configHash": "fbc00099",
+  "lockfileHash": "0f7a662e",
+  "browserHash": "ff2a9357",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "75cd90bf",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "fce42ac5",
+      "needsInterop": false
+    },
+    "@angular/material/button": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/button.mjs",
+      "file": "@angular_material_button.js",
+      "fileHash": "58f9758f",
+      "needsInterop": false
+    },
+    "@angular/material/card": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/card.mjs",
+      "file": "@angular_material_card.js",
+      "fileHash": "122202ba",
+      "needsInterop": false
+    },
+    "@angular/material/progress-bar": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/progress-bar.mjs",
+      "file": "@angular_material_progress-bar.js",
+      "fileHash": "4e2301b7",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "4cec7fa7",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "bad16db8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-FAJUX4UV": {
+      "file": "chunk-FAJUX4UV.js"
+    },
+    "chunk-XCPLWVWA": {
+      "file": "chunk-XCPLWVWA.js"
+    },
+    "chunk-DEENKJ74": {
+      "file": "chunk-DEENKJ74.js"
+    },
+    "chunk-73QTTL3T": {
+      "file": "chunk-73QTTL3T.js"
+    }
+  }
+}

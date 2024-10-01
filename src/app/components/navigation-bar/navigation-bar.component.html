@@ -1,0 +1,16 @@
+<header
+  [ngClass]="{
+    'fixed top-0 left-0 z-10 transition-all duration-300': true,
+    'py-7': !isSmall,
+    'py-4': isSmall
+  }"
+  class="flex justify-between items-center w-full px-[10%] border-b border-borderRouge bg-bgRouge"
+>
+  <a href="#" class="text-2xl font-semibold">Portfolio</a>
+  <nav class="hidden space-x-9 normal:flex">
+    <a href="#presentation" class="text-2xl font-medium">Home</a>
+    <a href="#project" class="text-2xl font-medium">Projects</a>
+    <a href="#skills" class="text-2xl font-medium">Skills</a>
+    <a href="#contact" class="text-2xl font-medium">Contact</a>
+  </nav>
+</header>
